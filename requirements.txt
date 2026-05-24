@@ -1,0 +1,6 @@
+yt-dlp
+faster-whisper
+ffmpeg-python
+numpy
+anthropic
+customtkinter

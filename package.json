@@ -1,0 +1,14 @@
+{
+  "name": "youtube-clipping-agent",
+  "version": "1.0.0",
+  "description": "Ruflo multi-agent YouTube highlight extractor",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "clip": "node main.js",
+    "start": "node main.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
